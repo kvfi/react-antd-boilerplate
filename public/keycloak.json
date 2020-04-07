@@ -1,0 +1,12 @@
+{
+    "realm": "demo",
+    "auth-server-url": "https://sso.qaxxu.com/auth",
+    "ssl-required": "external",
+    "resource": "demo",
+    "verify-token-audience": true,
+    "credentials": {
+        "secret": "0fc3eda0-10d2-472a-a6ed-ba856d21dc32"
+    },
+    "use-resource-role-mappings": true,
+    "confidential-port": 0
+}
